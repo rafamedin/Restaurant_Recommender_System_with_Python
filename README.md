@@ -4,7 +4,7 @@ In this project, first coffee brands in the world and then these brands in Turke
 
 # Importing Libraries
 ```Python
-import pandas as p
+import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
